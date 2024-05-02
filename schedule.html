@@ -80,7 +80,7 @@ permalink: /schedule/
     <td>
      {% if row['Track2 Speaker'] != nil %}
       <a href="#{{ row['Track2 Speaker'] | slugify }}" class="talk-name">{{row['Track2_ES']}}</a>
-      <div>{{row['Track2_ES']}}</div>
+      <div>{{row['Track2 Speaker']}}</div>
      {% else %}
       {{row['Track2_ES']}}
      {% endif %}
@@ -106,5 +106,50 @@ permalink: /schedule/
 <h2>Tuesday / Martes</h2>
 <p>R-Ladies Puebla</p>
 <p>SocialTIC</p>
+
+<h1 id="speakers">Speakers</h1>
+
+<table class="speakers">
+  {% for speaker in site.data.2024_speakers %}
+    <tr class="speaker" id="{{ speaker.name | slugify }}">
+      <td class="about">
+        <!-- {% if speaker.img %}
+        <img class="image"
+        style="background-image:url(/img/speakers-2024/{{ speaker.id }}.jpg)"/>
+        {% else %} -->
+        <!--  <img class="image"
+        style="background-image:url(/img/speakers-2024/comma.jpg)"/>
+        {% endif %} -->
+          <span class="name"> {% if speaker.twitter %}
+            <a href="https://twitter.com/{{speaker.twitter}}">{{ speaker.name }}</a>
+          {% else %}
+            {{ speaker.name }}
+          {% endif %}
+        </span>
+      </td>
+      <td>
+        <p class="title">{{ speaker.title }}</p>
+        <p class="abstract">{{ speaker.abstract }}</p>
+        <p class="title">{{ speaker.title-es }}</p>
+        <p class="abstract">{{ speaker.abstract-es }}</p>
+        <span>
+          {% if speaker.slides_url %}
+            <a href="{{speaker.slides_url}}" target="_blank">View Slides</a>
+            ·
+        {% else %}
+
+          {% endif %}
+        </span>
+        <span>
+          {% if speaker.talk_url %}
+            <a href="{{speaker.talk_url}}" target="_blank">Watch Talk</a>
+        {% else %}
+
+          {% endif %}
+        </span>
+      </td>
+    </tr>
+  {% endfor %}
+</table>
 
 <hr>
