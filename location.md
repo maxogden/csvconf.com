@@ -46,66 +46,66 @@ Welcome to/Bienvenidos a Puebla!
 # How to get to Puebla?
 
 ## Arrival
-The two nearest airports to Puebla are Mexico City’s International Airport and Hermanos Serdán Airport in Huejotzingo, Puebla:
+The two nearest airports to Puebla are Mexico City’s International Airport and Hermanos Serdán Airport in Huejotzingo, Puebla (check available flights [here](https://www.flightsfrom.com/PBC)):
 
 ## From International Airport of Mexico City
 Puebla City is about 130 kilometers from Benito Juarez Mexico City’s [International Airport](https://www.aicm.com.mx/) (AICM) (MEX code), and it should not take more than two hours to travel there by car and three hours by public transportation. The following methods could be used to get to the Center of Puebla from the Mexico City International Airport.
 
 ## The cheapest way
-[Estrella Roja](https://www.estrellaroja.com.mx/) provides nonstop, first-class bus service to Puebla from Mexico City, including its two terminals inside the airport. The two-hour ride, approximately, includes beverage service, air conditioning, videos, on board internet access, and personalized surround system for music and/or a movie. This bus arrives at both the CAPU (Puebla's central bus station) or the "Paseo Destino" station.
+[Estrella Roja](https://www.estrellaroja.com.mx/) provides nonstop, first-class bus service to Puebla from Mexico City, including its two terminals inside the airport. The two-hour ride, approximately, includes beverage service, air conditioning, videos, on board internet access, and personalized surround system for music and/or a movie. This bus arrives at both the CAPU (Puebla’s central bus station) or the “Paseo Destino” station.
 
-We recommend taking the bus to Paseo Destino because the cabs inside that terminal are safe and it costs approximately $100 pesos (~5 dollars) to get to one of the recommended hotels. However, you can take the bus to the CAPU and take an official cab from the cab stand inside the terminal. Give the dispatcher the address of the hotel, the dispatcher will charge you about $300 pesos (~18 dollars) and assign you a cab number.
+We recommend taking the bus to Paseo Destino, even if it’s a bit further away from the Historical Center, because that terminal is much safer than CAPU, especially at night. Taxis from Paseo Destino to the Historical Center cost approximately $100 pesos (~5 dollars). 
 
 ## The direct way
-You can take an authorized taxi in the Mexico City International Airport, but the cost of a trip directly to Puebla Center at the hotel you will stay is about $2000 pesos (~100 dollars).
-
+You can take an authorized taxi in the Mexico City International Airport, but the cost of a trip directly to Puebla Center at the hotel you will stay in is about $2000 pesos (~100 dollars).
 Puebla has a small airport, called Hermanos Serdán (PBC). It is located in the nearby town of Huejotzingo, about 40 to 50 minutes from downtown Puebla. Hire an official taxi for $400-$450 pesos (~25 dollars) at the stand inside the terminal. The disadvantage is that all international flights come through Houston, Texas and hence there are fewer options than when flying to Mexico City.
 
 ## Traveling from other states of Mexico
-If you are already in Mexico, you can take a bus that arrives to CAPU depending on the place you are. The most common lines departing from Mexico City are ADO and Estrella Roja, a detailed list of lines can be found at this link, if you are in another state you can travel to TAPO in Mexico City and then travel to Puebla by ADO or Estrella roja.
+If you are already in Mexico, you can take a bus that arrives at CAPU depending on the place you are. The most common lines departing from Mexico City are ADO and Estrella Roja, a detailed list of lines can be found at this link, if you are in another state you can travel to TAPO in Mexico City and then travel to Puebla by ADO or Estrella roja.
 
 ## Passports and Visas
 Citizens of the U.S., Canada, the European Union, Japan, and some countries of Latin America are not required to obtain visas for short visits (up to 3 months) to Mexico; you will require only a valid passport and a landing card supplied by the airlines. Citizens of most other countries will require a visa obtainable at the nearest Mexican consulate or embassy. In the (unlikely) event that you have problems obtaining a visa, please notify us as soon as possible.
 
 # Venue and city information
 
+## Hotel
+We will be stating at the [NH Puebla Centro Histórico](https://www.nh-hotels.com/ar/hotel/nh-puebla-centro-historico)
+C. 5 Sur 105, Centro histórico de Puebla, 72000 Heroica Puebla de Zaragoza, Pue., México
+
 ## BUAP
-The history of the Benemérita Universidad Autónoma de Puebla (BUAP) dates back to April 1578, when members of the Society of Jesus founded the College of the Holy Spirit. BUAP's trajectory and its presence in the development of science and culture in the state of Puebla merited the recognition of the State Congress, which granted it the title of Benemérita on April 2, 1987.    
-The institution is nationally consolidated, distinguished by its high standards of academic quality, research and innovation. It is ranked among the top 10 universities in the country. Currently, it has an enrollment of more than 110,000 students trained in various disciplines, and academics who conduct scientific research. The university has different spaces equipped for the comfort of students; the downtown area, university city, health area, university cultural complex and ecocampus. The largest of these, Ciudad Universitaria (CU), has most of the university's faculties, the central library, the sports complex, the rector's tower, among many other areas, which make it an impressive space where university students develop their potential day by day. 
+The history of the Benemérita Universidad Autónoma de Puebla (BUAP) dates back to April 1578, when members of the Society of Jesus founded the College of the Holy Spirit. BUAP’s trajectory and its presence in the development of science and culture in the state of Puebla merited the recognition of the State Congress, which granted it the title of Benemérita on April 2, 1987.  
+
+The institution is nationally consolidated, distinguished by its high standards of academic quality, research and innovation. It is ranked among the top 10 universities in the country. Currently, it has an enrollment of more than 110,000 students trained in various disciplines, and academics who conduct scientific research. The university has different spaces equipped for the comfort of students; the downtown area, university city, health area, university cultural complex and ecocampus. The largest of these, Ciudad Universitaria (CU), has most of the university’s faculties, the central library, the sports complex, the rector’s tower, among many other areas, which make it an impressive space where university students develop their potential day by day.
 
 ## The city of Puebla 
- Puebla is a state located in east-central Mexico, southeast of Mexico City. The state capital brings together a great culinary history, jewels of colonial architecture, modern spaces, exquisite cuisine and historic sites. It is recognized for its beautiful traditions and customs, as well as for the elaboration of Talavera pottery.  
-Puebla's gastronomy is internationally recognized for its variety and history. Among the most emblematic dishes, we can highlight the mole poblano, chiles en nogada and mole de caderas.  Architecture is very important, as you walk through the streets you can appreciate enormous buildings that are architectural jewels, such as churches, educational centers or cultural houses.  Festivities, such as Holy Week and the Day of the Dead, offer unforgettable experiences, immersing the city in a spiritual atmosphere. Puebla is a cultural treasure with a diversity of events that highlight its popular and traditional values. 
+Puebla is a state located in east-central Mexico, southeast of Mexico City. The state capital brings together a great culinary history, jewels of colonial architecture, modern spaces, exquisite cuisine and historic sites. It is recognized for its beautiful traditions and customs, as well as for the elaboration of Talavera pottery.
+
+Puebla’s gastronomy is internationally recognized for its variety and history. Among the most emblematic dishes, we can highlight the mole poblano, chiles en nogada and mole de caderas. Architecture is very important, as you walk through the streets you can appreciate enormous buildings that are architectural jewels, such as churches, educational centers or cultural houses. Festivities, such as Holy Week and the Day of the Dead, offer unforgettable experiences, immersing the city in a spiritual atmosphere. Puebla is a cultural treasure with a diversity of events that highlight its popular and traditional values.
 
 # Safety tips
-_The following information was prepared by a local from the City of Puebla, as an informal resource for csv, conf, v8 attendees._
+The following information was prepared by a local from the City of Puebla, as an informal resource for csv, conf, v8 attendees.
 
-We suggest that when going out into the city always keep your belongings close to you, use authorized cabs and make sure your bags or backpacks are securely closed. It is advisable to stay in well-lit streets at night and avoid wearing flashy jewelry or expensive accessories. We recommend that you do not use your telephone on public roads.  In case of an emergency, dial 911. 
+We suggest that when going out into the city always keep your belongings close to you, use authorized cabs and make sure your bags or backpacks are securely closed. It is advisable to stay in well-lit streets at night and avoid wearing flashy jewelry or expensive accessories. We recommend that you do not use your telephone on public roads. In case of an emergency, dial 911.
 
 ## Useful phone numbers
+We share with you the telephone numbers that will be very useful during your stay in the city:
 
-We share with you the telephone numbers that will be very useful during your stay in the city:   
-
-Lada for dialing in Mexico: +52   
-
-Emergencies and Help: Police, Fire Department, Red Cross, etc. For any criminal episode, call 911.  
-
-For medical emergencies, you can call the Red Cross, Phone: 213 7700, if available you can also contact your traveler's insurance.   
-
-Gender violence: Call the Telmujer emergency hotline, with direct number 222-232-37-38, or the emergency number 9-1-1, 24 hours a day, 365 days a year, to request psychological counseling, legal advice, and emergency services.  
-
-Public Prosecutor's Office specialized for tourists: +52 (222) 232 4478 
-
+Lada for dialing in Mexico: +52
+Emergencies and Help: Police, Fire Department, Red Cross, etc. For any criminal episode, call 911.
+For medical emergencies, you can call the Red Cross, Phone: 213 7700, if available you can also contact your traveler’s insurance.
+Gender violence: Call the Telmujer emergency hotline, with direct number 222-232-37-38, or the emergency number 9-1-1, 24 hours a day, 365 days a year, to request psychological counseling, legal advice, and emergency services.
+Public Prosecutor’s Office specialized for tourists: +52 (222) 232 4478
 
 ## Additional safety & security tips
 
-* Puebla is a busy city at all hours, but there are parts of the city that will feel unsafe at certain times of the day. Avoid them or take a cab de sitio/Uber.   
-* Some areas where you should be very careful are El Centro, Bosques de San Sebastian, Guadalupe Hidalgo and La Paz.  Outside of the tourist streets, it pays to be careful even during the day.  
+Puebla is a busy city at all hours, but there are parts of the city that will feel unsafe at certain times of the day. Avoid them or take a cab de sitio/Uber.
 
-* Please follow these tips during your visit:  
-  * In bars and restaurants do not leave your phone lying on the table, especially if you are on the sidewalk. Do not leave your bag hanging on the back of the chair, it is better to hang it from the hooks under the table or leave it on your lap.  
-  * In the city, use Taxis from places like a hotel when possible, or use Uber, Didi or similar apps.  
-* Carry only the essentials, leave important documents such as your passport at the hotel. 
+Some areas where you should be very careful are El Centro, Bosques de San Sebastian, Guadalupe Hidalgo and La Paz. Outside of the tourist streets, it pays to be careful even during the day.
+
+Please follow these tips during your visit:
+* In bars and restaurants do not leave your phone lying on the table, especially if you are on the sidewalk. Do not leave your bag hanging on the back of the chair, it is better to hang it from the hooks under the table or leave it on your lap.
+* In the city, use Taxis from places like a hotel when possible, or use Uber, Didi or similar apps.
+* Carry only the essentials, leave important documents such as your passport at the hotel.
 
 # The essentials
 
