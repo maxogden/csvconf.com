@@ -111,7 +111,7 @@ permalink: /schedule/
 
 <table class="speakers">
   {% for speaker in site.data.2024_speakers %}
-    <tr class="speaker" id="{{ speaker.name | slugify }}">
+    <tr class="speaker" id="{{ speaker.Name | slugify }}">
       <td class="about">
         <!-- {% if speaker.img %}
         <img class="image"
@@ -128,10 +128,10 @@ permalink: /schedule/
         </span>
       </td>
       <td>
-        <p class="title">{{ speaker.title }}</p>
-        <p class="abstract">{{ speaker.abstract }}</p>
-        <p class="title">{{ speaker.title-es }}</p>
-        <p class="abstract">{{ speaker.abstract-es }}</p>
+        <p class="title">{{ speaker.EN_Title }}</p>
+        <p class="abstract">{{ speaker.EN_Description }}</p>
+        <p class="title">{{ speaker.ES_Title }}</p>
+        <p class="abstract">{{ speaker.ES_Description }}</p>
         <span>
           {% if speaker.slides_url %}
             <a href="{{speaker.slides_url}}" target="_blank">View Slides</a>
