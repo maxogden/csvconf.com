@@ -47,10 +47,10 @@ Welcome to/Bienvenidos a Puebla!
 Los dos aeropuertos más cercanos a Puebla son el Aeropuerto Internacional de la Ciudad de México y el Aeropuerto Hermanos Serdán en Huejotzingo, Puebla (consulta los vuelos disponibles [aquí](https://www.flightsfrom.com/PBC)):
 
 ## Desde el Aeropuerto Internacional de la Ciudad de México
-La Ciudad de Puebla se encuentra a unos 130 kilómetros del Aeropuerto Internacional de la Ciudad de México Benito Juárez (AICM) (código MEX), y no debería tomar más de dos horas llegar en coche y tres horas en transporte público. Los siguientes métodos podrían utilizarse para llegar al centro de Puebla desde el Aeropuerto Internacional de la Ciudad de México.
+La Ciudad de Puebla se encuentra a unos 130 kilómetros del [Aeropuerto Internacional de la Ciudad de México Benito Juárez](https://www.aicm.com.mx/) (AICM) (código MEX), y no debería tomar más de dos horas llegar en coche y tres horas en transporte público. Los siguientes métodos podrían utilizarse para llegar al centro de Puebla desde el Aeropuerto Internacional de la Ciudad de México.
 
 ## La forma más económica (desde la Ciudad de México)
-Estrella Roja ofrece un servicio de autobús directo de primera clase a Puebla desde la Ciudad de México, incluyendo sus dos terminales dentro del aeropuerto. El viaje de aproximadamente dos horas incluye servicio de bebidas, aire acondicionado, videos, acceso a internet a bordo y sistema de sonido envolvente personalizado para música y/o película. Este autobús llega tanto a la CAPU (central de autobuses de Puebla) como a la estación "Paseo Destino".
+[Estrella Roja](https://www.estrellaroja.com.mx/) ofrece un servicio de autobús directo de primera clase a Puebla desde la Ciudad de México, incluyendo sus dos terminales dentro del aeropuerto. El viaje de aproximadamente dos horas incluye servicio de bebidas, aire acondicionado, videos, acceso a internet a bordo y sistema de sonido envolvente personalizado para música y/o película. Este autobús llega tanto a la CAPU (central de autobuses de Puebla) como a la estación "Paseo Destino".
 
 Recomendamos tomar el autobús a Paseo Destino, aunque esté un poco más lejos del centro y del hotel,  porque esa terminal es mucho más segura que CAPU, especialmente de noche. Desde allí puedes tomar un taxi que cuesta aproximadamente $100 pesos (~5 dólares) hasta el centro. 
 
@@ -60,7 +60,6 @@ Puebla cuenta con un aeropuerto pequeño, llamado Hermanos Serdán (PBC). Está 
 
 ## Viajando desde otros estados de México
 Si ya te encuentras en México, puedes tomar un autobús que llegue a la CAPU dependiendo del lugar en el que te encuentres. Las líneas más comunes que salen de la Ciudad de México son ADO y Estrella Roja, una lista detallada de líneas se puede encontrar en este enlace, si te encuentras en otro estado puedes viajar a TAPO en la Ciudad de México y luego viajar a Puebla en ADO o Estrella Roja.
-
 
 ## Pasaportes y visas
 Los ciudadanos de los EE. UU., Canadá, la Unión Europea, Japón y algunos países de América Latina no necesitan obtener visas para visitas cortas (hasta 3 meses) a México; solo necesitarás un pasaporte válido y una tarjeta de desembarque proporcionada por las aerolíneas. Los ciudadanos de la mayoría de otros países necesitarán una visa que se puede obtener en el consulado o embajada mexicana más cercana. En el (improbable) caso de que tengas problemas para obtener una visa, avísanos lo antes posible.
@@ -95,9 +94,9 @@ Puebla es una ciudad bulliciosa a todas horas, pero hay partes de la ciudad que 
 Algunas áreas donde debes tener mucho cuidado son El Centro, Bosques de San Sebastián, Guadalupe Hidalgo y La Paz. Fuera de las calles turísticas, es importante tener precaución incluso durante el día.
 
 Por favor, sigue estos consejos durante tu visita:
-En bares y restaurantes, no dejes tu teléfono sobre la mesa, especialmente si estás en la acera. No dejes tu bolso colgando en el respaldo de la silla, es mejor colgarlo de los ganchos debajo de la mesa o dejarlo en tu regazo.
-En la ciudad, utiliza taxis de lugares como un hotel cuando sea posible, o utiliza Uber, Didi u aplicaciones similares.
-Lleva solo lo esencial, deja documentos importantes como tu pasaporte en el hotel.
+* En bares y restaurantes, no dejes tu teléfono sobre la mesa, especialmente si estás en la acera. No dejes tu bolso colgando en el respaldo de la silla, es mejor colgarlo de los ganchos debajo de la mesa o dejarlo en tu regazo.
+* En la ciudad, utiliza taxis de lugares como un hotel cuando sea posible, o utiliza Uber, Didi u aplicaciones similares.
+* Lleva solo lo esencial, deja documentos importantes como tu pasaporte en el hotel.
 
 # Información importante
 
