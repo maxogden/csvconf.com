@@ -44,81 +44,59 @@ Welcome to/Bienvenidos a Puebla!
 # ¿Cómo llegar a Puebla?
 
 ## Llegada
-Los dos aeropuertos más cercanos a Puebla son el Aeropuerto Internacional de la Ciudad de México y el Aeropuerto Hermanos Serdán de Huejotzingo:
+Los dos aeropuertos más cercanos a Puebla son el Aeropuerto Internacional de la Ciudad de México y el Aeropuerto Hermanos Serdán en Huejotzingo, Puebla (consulta los vuelos disponibles [aquí](https://www.flightsfrom.com/PBC)):
 
 ## Desde el Aeropuerto Internacional de la Ciudad de México
-La Ciudad de Puebla se encuentra a aproximadamente 130 kilómetros del [Aeropuerto Internacional de la Ciudad de México Benito Juárez](https://www.aicm.com.mx/) (AICM) (código MEX), y no se debe tardar más de dos horas en llegar en automóvil y tres horas en autobús. Para llegar al Centro de Puebla desde el Aeropuerto Internacional de la Ciudad de México se pueden utilizar los siguientes medios.
+La Ciudad de Puebla se encuentra a unos 130 kilómetros del [Aeropuerto Internacional de la Ciudad de México Benito Juárez](https://www.aicm.com.mx/) (AICM) (código MEX), y no debería tomar más de dos horas llegar en coche y tres horas en transporte público. Los siguientes métodos podrían utilizarse para llegar al centro de Puebla desde el Aeropuerto Internacional de la Ciudad de México.
 
-## La forma más económica
-[Estrella Roja](https://www.estrellaroja.com.mx/) ofrece servicio de autobús de primera clase sin escalas a Puebla desde la Ciudad de México, incluyendo sus dos terminales dentro del aeropuerto. El trayecto, de dos horas aproximadamente, incluye servicio de aperitivos y bebidas, aire acondicionado, vídeos, acceso a Internet a bordo y sistema de sonido envolvente personalizado para escuchar música y/o ver una película. Este autobús llega tanto a la CAPU (central de autobuses de Puebla) como a la Estación “Paseo Destino”.
+## La forma más económica (desde la Ciudad de México)
+[Estrella Roja](https://www.estrellaroja.com.mx/) ofrece un servicio de autobús directo de primera clase a Puebla desde la Ciudad de México, incluyendo sus dos terminales dentro del aeropuerto. El viaje de aproximadamente dos horas incluye servicio de bebidas, aire acondicionado, videos, acceso a internet a bordo y sistema de sonido envolvente personalizado para música y/o película. Este autobús llega tanto a la CAPU (central de autobuses de Puebla) como a la estación "Paseo Destino".
 
-Te recomendamos tomar el autobús a Paseo Destino porque los taxis dentro de esa terminal son seguros y cuesta aproximadamente $100 pesos (~5 dólares) llegar a uno de los hoteles recomendados. Sin embargo, puedes tomar el autobús a la CAPU y tomar un taxi oficial en la parada dentro de la terminal. Dale al despachador la dirección del hotel, el despachador te cobrará unos $300 pesos (~18 dólares) y te asignará un número de taxi.
+Recomendamos tomar el autobús a Paseo Destino, aunque esté un poco más lejos del centro y del hotel,  porque esa terminal es mucho más segura que CAPU, especialmente de noche. Desde allí puedes tomar un taxi que cuesta aproximadamente $100 pesos (~5 dólares) hasta el centro. 
 
+## La forma directa (desde la Ciudad de México)
+Puedes tomar un taxi autorizado en el Aeropuerto Internacional de la Ciudad de México, pero el costo de un viaje directo al centro de Puebla en el hotel en el que te hospedarás es de aproximadamente $2000 pesos (~100 dólares).
+Puebla cuenta con un aeropuerto pequeño, llamado Hermanos Serdán (PBC). Está ubicado en el pueblo cercano de Huejotzingo, a unos 40 a 50 minutos del centro de Puebla. Contrata un taxi oficial por $400-$450 pesos (~25 dólares) en el puesto dentro de la terminal. La desventaja es que todos los vuelos internacionales llegan a través de Houston, Texas, y por lo tanto hay menos opciones que cuando vuelas a la Ciudad de México.
 
-## La forma más directa
-Puedes tomar un taxi autorizado en el Aeropuerto Internacional de la Ciudad de México, pero el costo de un viaje directo al Centro de Puebla en el hotel donde te hospedarás es de aproximadamente $2000 pesos (~100 dólares).
-
-Puebla cuenta con un pequeño aeropuerto, llamado Hermanos Serdán (PBC). Se encuentra en el cercano pueblo de Huejotzingo, a unos 40 ó 50 minutos del centro de Puebla. Contrata un taxi oficial por $400-$450 pesos (~25 dólares) en la caseta que hay dentro de la terminal. La desventaja es que todos los vuelos internacionales pasan por Houston, Texas, por lo que hay menos opciones que cuando se vuela a Ciudad de México.
-
-
-## ¿Cómo llegar desde otros estados de México?
-Si ya te encuentras en México, puedes tomar un autobús que llegue a CAPU dependiendo del lugar donde te encuentres. Las líneas más comunes que salen de la Ciudad de México son ADO y Estrella Roja, una lista detallada de las líneas se puede encontrar en este enlace, si te encuentras en otro estado puedes viajar a TAPO en la Ciudad de México y luego viajar a Puebla en ADO o Estrella roja.
+## Viajando desde otros estados de México
+Si ya te encuentras en México, puedes tomar un autobús que llegue a la CAPU dependiendo del lugar en el que te encuentres. Las líneas más comunes que salen de la Ciudad de México son ADO y Estrella Roja, una lista detallada de líneas se puede encontrar en este enlace, si te encuentras en otro estado puedes viajar a TAPO en la Ciudad de México y luego viajar a Puebla en ADO o Estrella Roja.
 
 ## Pasaportes y visas
-Los ciudadanos de EE.UU., Canadá, la Unión Europea, Japón y algunos países de América Latina no necesitan visado para visitas cortas (hasta 3 meses) a México; sólo necesitarán un pasaporte válido y una tarjeta de desembarque suministrada por las compañías aéreas. Los ciudadanos de la mayoría de los demás países necesitarán un visado que podrán obtener en el consulado o embajada mexicanos más cercanos. En el caso (improbable) de que tenga problemas para obtener un visado, notifíquenoslo lo antes posible.
+Los ciudadanos de los EE. UU., Canadá, la Unión Europea, Japón y algunos países de América Latina no necesitan obtener visas para visitas cortas (hasta 3 meses) a México; solo necesitarás un pasaporte válido y una tarjeta de desembarque proporcionada por las aerolíneas. Los ciudadanos de la mayoría de otros países necesitarán una visa que se puede obtener en el consulado o embajada mexicana más cercana. En el (improbable) caso de que tengas problemas para obtener una visa, avísanos lo antes posible.
 
-# Información sobre la sede y la ciudad
+# Información sobre el lugar y la ciudad
+
+## Hotel
+Nos alojaremos en el  NH Puebla Centro Histórico [https://www.nh-hotels.com/ar/hotel/nh-puebla-centro-historico]
+C. 5 Sur 105, Centro histórico de Puebla, 72000 Heroica Puebla de Zaragoza, Pue., México
 
 ## BUAP
-La historia de la Benemérita Universidad Autónoma de Puebla (BUAP) se remonta a abril de 1578, cuando miembros de la Compañía de Jesús fundaron el Colegio del Espíritu Santo. La trayectoria de la BUAP y su presencia en el desarrollo de la ciencia y la cultura en el estado de Puebla merecieron el reconocimiento del Congreso del Estado, que le otorgó el título de Benemérita el 2 de abril de 1987.    
+La historia de la Benemérita Universidad Autónoma de Puebla (BUAP) se remonta a abril de 1578, cuando miembros de la Compañía de Jesús fundaron el Colegio del Espíritu Santo. La trayectoria de la BUAP y su presencia en el desarrollo de la ciencia y la cultura en el estado de Puebla merecieron el reconocimiento del Congreso del Estado, que le otorgó el título de Benemérita el 2 de abril de 1987.
 
-La institución está consolidada a nivel nacional, distinguiéndose por sus altos estándares de calidad académica, investigación e innovación. Está clasificada entre las 10 mejores universidades del país. Actualmente, cuenta con una matrícula de más de 110.000 estudiantes formados en diversas disciplinas, y académicos que realizan investigación científica. La universidad cuenta con diferentes espacios equipados para la comodidad de los estudiantes; la zona centro, ciudad universitaria, zona de salud, complejo cultural universitario y ecocampus. El mayor de ellos, Ciudad Universitaria (CU), cuenta con la mayoría de las facultades de la universidad, la biblioteca central, el complejo deportivo, la torre del rector, entre muchas otras áreas, que lo convierten en un impresionante espacio donde los universitarios desarrollan día a día su potencial.
-
+La institución está consolidada a nivel nacional, distinguida por sus altos estándares de calidad académica, investigación e innovación. Se encuentra entre las 10 mejores universidades del país. Actualmente, cuenta con más de 110,000 estudiantes matriculados en diversas disciplinas y académicos que realizan investigación científica. La universidad cuenta con diferentes espacios equipados para la comodidad de los estudiantes; el área del centro, ciudad universitaria, área de salud, complejo cultural universitario y ecocampus. El más grande de estos, Ciudad Universitaria (CU), tiene la mayoría de las facultades de la universidad, la biblioteca central, el complejo deportivo, la torre del rector, entre muchas otras áreas, que lo convierten en un espacio impresionante donde los estudiantes universitarios desarrollan su potencial día a día.
 
 ## La ciudad de Puebla
-Puebla es un estado situado en el centro-este de México, al sureste de la Ciudad de México. La capital del estado reúne una gran historia culinaria, joyas de la arquitectura colonial, espacios modernos, exquisita gastronomía y sitios históricos. Es reconocida por sus bellas tradiciones y costumbres, así como por la elaboración de la cerámica de Talavera.  
+Puebla es un estado ubicado en el centro-este de México, al sureste de la Ciudad de México. La capital del estado reúne una gran historia culinaria, joyas de arquitectura colonial, espacios modernos, exquisita gastronomía y sitios históricos. Es reconocida por sus hermosas tradiciones y costumbres, así como por la elaboración de la cerámica de Talavera.
 
-La gastronomía poblana es reconocida internacionalmente por su variedad e historia. Entre los platillos más emblemáticos destacan el mole poblano, los chiles en nogada y el mole de caderas.  La arquitectura es muy importante, al recorrer sus calles se pueden apreciar enormes edificios que son joyas arquitectónicas, como iglesias, centros educativos o casas de cultura.  Las festividades, como la Semana Santa y el Día de Muertos, ofrecen experiencias inolvidables, sumergiendo a la ciudad en una atmósfera espiritual. Puebla es un tesoro cultural con diversidad de eventos que resaltan sus valores populares y tradicionales.
+La gastronomía de Puebla es reconocida internacionalmente por su variedad e historia. Entre los platos más emblemáticos, podemos destacar el mole poblano, los chiles en nogada y el mole de caderas. La arquitectura es muy importante; al caminar por las calles, puedes apreciar enormes edificios que son joyas arquitectónicas, como iglesias, centros educativos o casas culturales. Las festividades, como la Semana Santa y el Día de Muertos, ofrecen experiencias inolvidables, sumergiendo a la ciudad en una atmósfera espiritual. Puebla es un tesoro cultural con una diversidad de eventos que resaltan sus valores populares y tradicionales.
 
+## Números de teléfono útiles
+Compartimos contigo los números de teléfono que serán muy útiles durante tu estancia en la ciudad:
 
-# Información para visitantes
-_La siguiente información fue preparada por un local de la Ciudad de Puebla, como un recurso informal para los asistentes al csv, conf, v8._
-
-We suggest that when going out into the city always keep your belongings close to you, use authorized cabs and make sure your bags or backpacks are securely closed. It is advisable to stay in well-lit streets at night and avoid wearing flashy jewelry or expensive accessories. We recommend that you do not use your telephone on public roads.  In case of an emergency, dial 911. 
-
-## Consejos de seguridad
-
-Le sugerimos que al salir a la ciudad siempre mantenga sus pertenencias cerca de usted, utilice taxis autorizados y asegúrese de que sus bolsas o mochilas estén bien cerradas. Es aconsejable permanecer en calles bien iluminadas por la noche y evitar llevar joyas llamativas o accesorios caros. Le recomendamos que no utilice el teléfono en la vía pública.  En caso de emergencia, marque el 911. 
-
-
-## Números de teléfono útiles  
-
-Te compartimos los números telefónicos que te serán de gran utilidad durante tu estancia en la ciudad:   
-
-Lada para marcar en México: +52   
-
-Emergencias y Ayuda: Policía, Bomberos, Cruz Roja, etc. Para cualquier episodio delictivo, llame al 911.  
-
-Para emergencias médicas, puede llamar a la Cruz Roja, Teléfono: 213 7700, si dispone también puede contactar con su seguro de viajero.
-
-
-Violencia de género: Llamar al teléfono de emergencias Telmujer, con número directo 222-232-37-38, o al número de emergencias 9-1-1, las 24 horas del día, los 365 días del año, para solicitar orientación psicológica, asesoramiento jurídico y servicios de urgencia.  
-
-Ministerio Público especializado para turistas: +52 (222) 232 4478
+Lada para llamar en México: +52
+Emergencias y Ayuda: Policía, Bomberos, Cruz Roja, etc. Para cualquier incidente criminal, llama al 911.
+Para emergencias médicas, puedes llamar a la Cruz Roja, Teléfono: 213 7700, si está disponible también puedes contactar a tu seguro de viaje.
+Violencia de género: Llama a la línea directa de emergencia Telmujer, con el número directo 222-232-37-38, o al número de emergencia 9-1-1, las 24 horas del día, los 365 días del año, para solicitar asesoramiento psicológico, asesoramiento legal y servicios de emergencia.
+Fiscalía Especializada para Turistas: +52 (222) 232 4478
 
 ## Consejos adicionales de seguridad
+Puebla es una ciudad bulliciosa a todas horas, pero hay partes de la ciudad que pueden sentirse inseguras en ciertos momentos del día. Evita estas áreas o toma un taxi de sitio/Uber.
+Algunas áreas donde debes tener mucho cuidado son El Centro, Bosques de San Sebastián, Guadalupe Hidalgo y La Paz. Fuera de las calles turísticas, es importante tener precaución incluso durante el día.
 
-* Puebla es una ciudad concurrida a todas horas, pero hay partes de la ciudad que le parecerán inseguras a ciertas horas del día. Evítalas o toma un taxi de sitio/Uber.   
-
-* Algunas zonas donde debes tener mucho cuidado son El Centro, Bosques de San Sebastián, Guadalupe Hidalgo y La Paz.  Fuera de las calles turísticas, vale la pena tener cuidado incluso durante el día.  
-
-* Siga estos consejos durante su visita:  
-* En bares y restaurantes no deje su teléfono sobre la mesa, sobre todo si está en la acera. No deje el bolso colgado del respaldo de la silla, es mejor colgarlo de los ganchos que hay bajo la mesa o dejarlo sobre el regazo.  
-
-* En la ciudad, utilice taxis desde lugares como el hotel siempre que sea posible, o utilice Uber, Didi o aplicaciones similares.  
-
-* Lleve sólo lo imprescindible, deje los documentos importantes, como el pasaporte, en el hotel.
-
+Por favor, sigue estos consejos durante tu visita:
+* En bares y restaurantes, no dejes tu teléfono sobre la mesa, especialmente si estás en la acera. No dejes tu bolso colgando en el respaldo de la silla, es mejor colgarlo de los ganchos debajo de la mesa o dejarlo en tu regazo.
+* En la ciudad, utiliza taxis de lugares como un hotel cuando sea posible, o utiliza Uber, Didi u aplicaciones similares.
+* Lleva solo lo esencial, deja documentos importantes como tu pasaporte en el hotel.
 
 # Información importante
 
@@ -145,8 +123,6 @@ Horarios bancarios y comerciales: Los bancos abren regularmente de lunes a viern
 En la ciudad, la red WiFi municipal cuenta con 600 puntos de acceso gratuito a Internet, con una velocidad de navegación de 50 Mbps, proporcionados gratuitamente por el gobierno de la Ciudad de Puebla. Muchas veces la conexión no es segura, por lo que se recomienda conectarse a una red VPN, en muchos lugares de la ciudad, como hoteles, restaurantes, etc., cuentan con conexión a internet, sólo es necesario solicitar el acceso.   
  
 Del mismo modo, puede utilizar los datos móviles. Si tu proveedor de telefonía celular aún no te permite hacer roaming en México, te recomendamos comprar una tarjeta SIM de prepago, directamente con alguno de los proveedores de telefonía en México, (TELCEL, MOVISTAR, AT&T) puedes hacer la compra directamente en la tienda, para esto necesitarás una identificación oficial, (Pasaporte o ID).
-
-
 
 ## Transporte desde el Aeropuerto Internacional de Puebla  
 
