@@ -1,0 +1,111 @@
+---
+layout: default-2024
+title: Schedule
+permalink: /2024/2024/schedule/
+---
+---
+layout: default
+title: Speakers
+permalink: /schedule/
+---
+<h1>Schedule</h1>
+
+<p class="speakers-intro">
+We are assembling an exciting team of data makers and enthusiasts representing academia, science, journalism, government, and open source projects.
+</p>
+
+<h2>English</h2>
+<table class="speakers">
+ {% for row in site.data.2024_schedule %}
+ <tr>
+
+  {% if row['Track1'] == nil %}
+   <td colspan=5 class="day">{{ row['Time'] }}</td>
+  {% else %}
+   {% if row['Track2'] == nil %}
+    <td>{{ row['Time'] }}</td>
+    <td colspan="4" class="highlight">{{ row['Track1'] }}</td>
+   {% else %}
+    <td>{{ row['Time'] }}</td>
+    <td>
+     {% if row['Track1 Speaker'] != nil %}
+      <a href="#{{ row['Track1 Speaker'] | slugify }}" class="talk-name">{{row['Track1']}}</a>
+      <div>{{row['Track1 Speaker']}}</div>
+     {% else %}
+      {{row['Track1']}}
+     {% endif %}
+    </td>
+    <td>
+     {% if row['Track2 Speaker'] != nil %}
+      <a href="#{{ row['Track2 Speaker'] | slugify }}" class="talk-name">{{row['Track2']}}</a>
+      <div>{{row['Track2 Speaker']}}</div>
+     {% else %}
+      {{row['Track2']}}
+     {% endif %}
+    </td>
+    <td>
+     {% if row['Track3 Speaker'] != nil %}
+      <a href="#{{ row['Track3 Speaker'] | slugify }}" class="talk-name">{{row['Track3']}}</a>
+      <div>{{row['Track3 Speaker']}}</div>
+     {% else %}
+      {{row['Track3']}}
+     {% endif %}
+    </td>
+   {% endif %}
+  {% endif %}
+ </tr>
+ {% endfor %}
+</table>
+
+<h2>Español</h2>
+<table class="speakers">
+ {% for row in site.data.2024_schedule %}
+ <tr>
+
+  {% if row['Track1'] == nil %}
+   <td colspan=5 class="day">{{ row['Time'] }}</td>
+  {% else %}
+   {% if row['Track2'] == nil %}
+    <td>{{ row['Time'] }}</td>
+    <td colspan="4" class="highlight">{{ row['Track1'] }}</td>
+   {% else %}
+    <td>{{ row['Time'] }}</td>
+    <td>
+     {% if row['Track1 Speaker'] != nil %}
+      <a href="#{{ row['Track1 Speaker'] | slugify }}" class="talk-name">{{row['Track1_ES']}}</a>
+      <div>{{row['Track1 Speaker']}}</div>
+     {% else %}
+      {{row['Track1_ES']}}
+     {% endif %}
+    </td>
+    <td>
+     {% if row['Track2 Speaker'] != nil %}
+      <a href="#{{ row['Track2 Speaker'] | slugify }}" class="talk-name">{{row['Track2_ES']}}</a>
+      <div>{{row['Track2_ES']}}</div>
+     {% else %}
+      {{row['Track2_ES']}}
+     {% endif %}
+    </td>
+    <td>
+     {% if row['Track3 Speaker'] != nil %}
+      <a href="#{{ row['Track3 Speaker'] | slugify }}" class="talk-name">{{row['Track3_ES']}}</a>
+      <div>{{row['Track3 Speaker']}}</div>
+     {% else %}
+      {{row['Track3_ES']}}
+     {% endif %}
+    </td>
+   {% endif %}
+  {% endif %}
+ </tr>
+ {% endfor %}
+</table>
+
+
+<h1 id="workshops">Pre-Conference Workshops / Talleres Pre-conferencia</h1>
+<h2>Monday / Lunes</h2>
+<p>The Carpentries</p>
+<h2>Tuesday / Martes</h2>
+<p>R-Ladies Puebla</p>
+<p>SocialTIC</p>
+
+<hr>
