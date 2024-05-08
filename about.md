@@ -13,6 +13,54 @@ csv,conf is a welcoming data-centric conference that is for anyone! We focus on 
 # Where will csv,conf be located?
 The conference will be Puebla, Mexico (outside of Mexico City) at the Benemérita Universidad Autónoma de Puebla (BUAP). 
 
+---
+
+# Sponsors
+Thank you to our generous sponsors for supporting csv,conf,v8!
+
+<table>
+   <tr>
+    <td>
+      <div class="second-tagline--info">
+        <a href="https://chanzuckerberg.com/">
+          <img src="/img/czi.svg" alt="Chan Zuckerberg Initiative" width="200px">
+        </a>
+      </div>
+       <div class="second-tagline--info">
+        <a href="https://www.python.org/psf-landing/">
+          <img src="img/python-logo.png" alt="Python Software Foundation" width="200px">
+        </a>
+      </div>
+      <div class="second-tagline--info">
+        <a href="https://www.escire.lat/">
+          <img src="/img/eScire-logo.png" alt="eScire" width="200px">
+        </a>
+      </div>
+      <div class="second-tagline--info">
+        <a href="https://www.buap.mx/">
+          <img src="/img/Logo_BUAP.png" alt="BUAP" width="200px">
+        </a>
+     </div>
+      <div class="second-tagline--info">
+        <a href="https://lincolnloop.com/">
+          <img src="/img/lincoln-loop.png" alt="Lincoln Loop" width="200px">
+        </a>
+      </div>
+      <div class="second-tagline--info">
+        <a href="https://datacite.org/">
+          <img src="/img/datacite.png" alt="DataCite" width="200px">
+        </a>
+      </div>
+      <div class="second-tagline--info">
+        <a href="https://www.google.com/">
+          <img src="img/logo_Google_FullColor.png" alt="Google" width="200px">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+---
+
 # 2024 Announcement (English)
 **We are going to Mexico, csv,conf is back!**
 Save the date 29 - 30 May 2024
