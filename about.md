@@ -28,7 +28,7 @@ Thank you to our generous sponsors for supporting csv,conf,v8!
       </div>
       <div class="second-tagline--info">
         <a href="https://www.python.org/psf-landing/">
-          <img src="img/python-logo.png" alt="Python Software Foundation" width="200px">
+          <img src="/img/python-logo.png" alt="Python Software Foundation" width="200px">
         </a>
       </div>
       <div class="second-tagline--info">
@@ -53,7 +53,7 @@ Thank you to our generous sponsors for supporting csv,conf,v8!
       </div>
       <div class="second-tagline--info">
         <a href="https://www.google.com/">
-          <img src="img/logo_Google_FullColor.png" alt="Google" width="200px">
+          <img src="/img/logo_Google_FullColor.png" alt="Google" width="200px">
         </a>
       </div>
     </td>
