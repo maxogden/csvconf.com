@@ -33,12 +33,12 @@ Thank you to our generous sponsors for supporting csv,conf,v8!
       </div>
       <div class="second-tagline--info">
         <a href="https://www.escire.lat/">
-          <img src="/img/eScire-logo.webp" alt="eScire" width="200px">
+          <img src="/img/eScire-logo.png" alt="eScire" width="200px">
         </a>
       </div>
       <div class="second-tagline--info">
         <a href="https://www.buap.mx/">
-          <img src="/img/Logo_BUAP.svg" alt="BUAP" width="200px">
+          <img src="/img/Logo_BUAP.png" alt="BUAP" width="200px">
         </a>
      </div>
       <div class="second-tagline--info">
