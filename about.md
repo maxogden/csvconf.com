@@ -26,7 +26,7 @@ Thank you to our generous sponsors for supporting csv,conf,v8!
           <img src="/img/czi.svg" alt="Chan Zuckerberg Initiative" width="200px">
         </a>
       </div>
-       <div class="second-tagline--info">
+      <div class="second-tagline--info">
         <a href="https://www.python.org/psf-landing/">
           <img src="img/python-logo.png" alt="Python Software Foundation" width="200px">
         </a>
@@ -40,7 +40,7 @@ Thank you to our generous sponsors for supporting csv,conf,v8!
         <a href="https://www.buap.mx/">
           <img src="/img/Logo_BUAP.png" alt="BUAP" width="200px">
         </a>
-     </div>
+      </div>
       <div class="second-tagline--info">
         <a href="https://lincolnloop.com/">
           <img src="/img/lincoln-loop.png" alt="Lincoln Loop" width="200px">
