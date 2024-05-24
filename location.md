@@ -52,13 +52,18 @@ The two nearest airports to Puebla are Mexico City’s International Airport and
 Puebla City is about 130 kilometers from Benito Juarez Mexico City’s [International Airport](https://www.aicm.com.mx/) (AICM) (MEX code), and it should not take more than two hours to travel there by car and three hours by public transportation. The following methods could be used to get to the Center of Puebla from the Mexico City International Airport.
 
 ## The cheapest way
-[Estrella Roja](https://www.estrellaroja.com.mx/) provides nonstop, first-class bus service to Puebla from Mexico City, including its two terminals inside the airport. The two-hour ride, approximately, includes beverage service, air conditioning, videos, on board internet access, and personalized surround system for music and/or a movie. This bus arrives at both the CAPU (Puebla’s central bus station) or the “Paseo Destino” station.
+[Estrella Roja](https://www.estrellaroja.com.mx/) provides nonstop, first-class bus service to Puebla from Mexico City, including its two terminals inside the airport. At Terminal 1 find the bus ticket counter at the upper level near the fast food court . At Terminal 2 you will find the bus ticket counter at ground level. Map of Ciudad de Mexico airport: [Interactive Map](https://www.aicm.com.mx/interactive-map#).
 
-We recommend taking the bus to Paseo Destino, even if it’s a bit further away from the Historical Center, because that terminal is much safer than CAPU, especially at night. Taxis from Paseo Destino to the Historical Center cost approximately $100 pesos (~5 dollars). 
+Buses leave every half-hour. The two-hour ride, approximately, includes beverage service, air conditioning, videos, on board internet access, and personalized surround system for music and/or a movie. This bus arrives at both “Paseo Destino” or also known as “Paseo Destino Terrapuerto” station and the CAPU (Puebla’s central bus station). Buses stop at Paseo Destino first and then CAPU. We recommend taking the bus to Paseo Destino, even if it’s a bit further away from the Historical Center (downtown), because that terminal is much safer than CAPU, especially at night. 
+
+Once you are at the Paseo Destino station, you will have to take an Uber or Taxi to the Historical Center. This will cost approximately $100 pesos (~5 dollars). It is easy to find Ubers and Taxis. 
+
+Note: We highly suggest taking a bus directly from the Ciudad de Mexico MEX airport stations (and we suggest you not go into the city and use the central Mexico City TAPO station).
 
 ## The direct way
-You can take an authorized taxi in the Mexico City International Airport, but the cost of a trip directly to Puebla Center at the hotel you will stay in is about $2000 pesos (~100 dollars).
-Puebla has a small airport, called Hermanos Serdán (PBC). It is located in the nearby town of Huejotzingo, about 40 to 50 minutes from downtown Puebla. Hire an official taxi for $400-$450 pesos (~25 dollars) at the stand inside the terminal. The disadvantage is that all international flights come through Houston, Texas and hence there are fewer options than when flying to Mexico City.
+We highly suggest taking a bus above. However, you can also take an authorized taxi in the Mexico City International Airport. The cost of a trip directly to Puebla Center at the hotel you will stay in is about $2000 pesos (~100 dollars).
+
+Note: Puebla has a small airport, called Hermanos Serdán (PBC). It is located in the nearby town of Huejotzingo, about 40 to 50 minutes from downtown Puebla. Hire an official taxi for $400-$450 pesos (~25 dollars) at the stand inside the terminal. The disadvantage is that all international flights come through Houston, Texas and hence there are fewer options than when flying to Mexico City.
 
 ## Traveling from other states of Mexico
 If you are already in Mexico, you can take a bus that arrives at CAPU depending on the place you are. The most common lines departing from Mexico City are ADO and Estrella Roja, a detailed list of lines can be found at this link, if you are in another state you can travel to TAPO in Mexico City and then travel to Puebla by ADO or Estrella roja.
@@ -69,8 +74,8 @@ Citizens of the U.S., Canada, the European Union, Japan, and some countries of L
 # Venue and city information
 
 ## Hotel
-We will be stating at the [NH Puebla Centro Histórico](https://www.nh-hotels.com/ar/hotel/nh-puebla-centro-historico)
-C. 5 Sur 105, Centro histórico de Puebla, 72000 Heroica Puebla de Zaragoza, Pue., México
+We will be staying at the [NH Puebla Centro Histórico](https://www.nh-hotels.com/ar/hotel/nh-puebla-centro-historico)
+C. 5 Sur 105, Centro histórico de Puebla, 72000 Heroica Puebla de Zaragoza, Pue., México. Shuttles from this hotel to BUAP will run on all conference days. 
 
 ## BUAP
 The history of the Benemérita Universidad Autónoma de Puebla (BUAP) dates back to April 1578, when members of the Society of Jesus founded the College of the Holy Spirit. BUAP’s trajectory and its presence in the development of science and culture in the state of Puebla merited the recognition of the State Congress, which granted it the title of Benemérita on April 2, 1987.  
